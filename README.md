@@ -1,5 +1,12 @@
 # IBM-Project-5010-1658745131
 Global Sales Data Analytics
-Preparation phase - Completed
-Ideation phase - In Progress
+| Phase Description  | Progress |
+| ------------- | ------------- |
+| Preparation Phase  | Completed  |
+| Ideation Phase  | In Progress |
+| Project Design Phase I | |
+| Project Design Phase II | |
+| Project Planning Phase  | |
+| Project Developement Phase | |
+
 
