@@ -1,6 +1,6 @@
 # IBM-Project-5010-1658745131
-Title : Global Sales Data Analytics
-📊
+## Title : Global Sales Data Analytics
+Progress 📊
 | Phase Description  | Progress |
 | ------------- | ------------- |
 | Preparation Phase  | Completed  |
