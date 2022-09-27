@@ -12,7 +12,7 @@ Title : Global Sales Data Analytics
 Submissions
 | Assignment Number | Ramyaa | Mithesh | Pramoth | Malini |
 | ----- | ----- | ----- | ----- | ----- |
-| 1 | Y | Y | Y | Y |
-| 2 | Y | Y | | |
+| 1 | Yes | Yes | Yes | Yes |
+| 2 | Yes | Yes | | |
 
 
