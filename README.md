@@ -15,6 +15,7 @@ Submissions
 | Assignment 1 | Yes | Yes | Yes | Yes |
 | Assignment 2 | Yes | Yes | | |
 
+
 | Team Submissions | Progress |
 | ----- | ----- |
 | Empathy Map | Yes |
