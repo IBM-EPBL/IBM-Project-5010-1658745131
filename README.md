@@ -10,9 +10,10 @@ Title : Global Sales Data Analytics
 | Project Developement Phase | |
 
 Submissions
-| Assignment Number | Ramyaa | Mithesh | Pramoth | Malini |
+| Title | Ramyaa | Mithesh | Pramoth | Malini |
 | ----- | ----- | ----- | ----- | ----- |
-| 1 | Yes | Yes | Yes | Yes |
-| 2 | Yes | Yes | | |
+| Assignment 1 | Yes | Yes | Yes | Yes |
+| Empathy Map | Yes |
+| Assignment 2 | Yes | Yes | | |
 
 
