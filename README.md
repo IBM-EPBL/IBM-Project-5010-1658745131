@@ -22,7 +22,7 @@ Tasks
 |Title| Status|
 |---|---|
 |Empathy Map| Done|
-|Proposed Solution Document - 3.1| |
+|Proposed Solution Document - 3.1| Yes |
 |Solution Fit Document - 3.3| |
 |Customer Journey Map - 4.1||
 |Functional and Non Functional Req - 4.3| Done |
