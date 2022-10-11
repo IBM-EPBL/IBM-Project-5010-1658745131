@@ -17,5 +17,13 @@ Submissions
 | Assignment 1 | Yes | Yes | Yes | Yes |
 | Assignment 2 | Yes | Yes | | |
 
+Tasks
+|Title| Status|
+|Empathy Map| Done|
+|Proposed SOlution Document| |
+|Solution Fit Document| |
+|Customer Journey Map||
+|Functional and Non Functional Req||
+|Technology Architecture||
 
 
