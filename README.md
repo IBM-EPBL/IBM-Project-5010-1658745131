@@ -19,11 +19,12 @@ Submissions
 
 Tasks
 |Title| Status|
+|---|---|
 |Empathy Map| Done|
-|Proposed SOlution Document| |
-|Solution Fit Document| |
-|Customer Journey Map||
-|Functional and Non Functional Req||
-|Technology Architecture||
+|Proposed Solution Document - 3.1| |
+|Solution Fit Document - 3.3| |
+|Customer Journey Map - 4.1||
+|Functional and Non Functional Req - 4.3||
+|Technology Architecture - 4.4||
 
 
