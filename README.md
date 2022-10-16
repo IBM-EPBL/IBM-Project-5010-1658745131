@@ -31,7 +31,7 @@ Tasks
 |5|Proposed Solution Document - 3.1| Done |
 |6|Solution Fit Document - 3.3| Done |
 |7|Solution Architecture - 3.3 |Done|
-|8|Customer Journey Map - 4.1||
+|8|Customer Journey Map - 4.1| Done |
 |9|Functional and Non Functional Req - 4.3| Done |
 |10|Data Flow Diagram - 4.3|Done| 
 |11|Technology Architecture - 4.4|Done|
