@@ -33,7 +33,7 @@ Tasks
 |7|Solution Architecture - 3.3 |Done|
 |8|Customer Journey Map - 4.1||
 |9|Functional and Non Functional Req - 4.3| Done |
-|10|Data Flow Diagram - 4.3|  | 
+|10|Data Flow Diagram - 4.3|Done| 
 |11|Technology Architecture - 4.4|Done|
 |12|Milestone & Activity List, Sprint Delivery Plan - 5.1 ||
 |13|Sprint 1 - 6.1 ||
