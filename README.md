@@ -26,19 +26,20 @@ Tasks
 |---|---|---|
 |1|Literature Survey - 2.1||
 |2|Empathy Map - 2.3| Done|
-|3|Brainstorming session - 2.5| |
-|4|Proposed Solution Document - 3.1| Done |
-|5|Solution Fit Document - 3.3| Done |
-|6|Solution Architecture - 3.3 |Done|
-|7|Customer Journey Map - 4.1||
-|8|Functional and Non Functional Req - 4.3| Done |
-|9|Data Flow Diagram - 4.3|  | 
-|10|Technology Architecture - 4.4|Done|
-|11|Milestone & Activity List, Sprint Delivery Plan - 5.1 ||
-|12|Sprint 1 - 6.1 ||
-|13|Sprint 2 - 6.3 ||
-|14|Sprint 3 - 6.5 ||
-|15|Sprint 4 - 6.7 ||
+|3|Problem Statement - 2.3 ||
+|4|Brainstorming session - 2.5| |
+|5|Proposed Solution Document - 3.1| Done |
+|6|Solution Fit Document - 3.3| Done |
+|7|Solution Architecture - 3.3 |Done|
+|8|Customer Journey Map - 4.1||
+|9|Functional and Non Functional Req - 4.3| Done |
+|10|Data Flow Diagram - 4.3|  | 
+|11|Technology Architecture - 4.4|Done|
+|12|Milestone & Activity List, Sprint Delivery Plan - 5.1 ||
+|13|Sprint 1 - 6.1 ||
+|14|Sprint 2 - 6.3 ||
+|15|Sprint 3 - 6.5 ||
+|16|Sprint 4 - 6.7 ||
 
 
 
