@@ -24,7 +24,7 @@ Submissions
 Tasks
 |S.No|Title| Status|
 |---|---|---|
-|1|Literature Survey - 2.1||
+|1|Literature Survey - 2.1| Done|
 |2|Empathy Map - 2.3| Done|
 |3|Problem Statement - 2.3 | Done|
 |4|Brainstorming session - 2.5| |
