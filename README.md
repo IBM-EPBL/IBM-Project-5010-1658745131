@@ -27,7 +27,7 @@ Tasks
 |1|Literature Survey - 2.1| Done|
 |2|Empathy Map - 2.3| Done|
 |3|Problem Statement - 2.3 | Done|
-|4|Brainstorming session - 2.5| |
+|4|Brainstorming session - 2.5| Done|
 |5|Proposed Solution Document - 3.1| Done |
 |6|Solution Fit Document - 3.3| Done |
 |7|Solution Architecture - 3.3 |Done|
