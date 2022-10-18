@@ -17,8 +17,8 @@ Submissions
 | Assignment  | Team Lead Ramyaa | Team Member 1 Mithesh | Team Member 2 Pramoth | Team Member 3 Malini |
 | ----- | ----- | ----- | ----- | ----- |
 | 1 | Yes | Yes | Yes | Yes |
-|2 | Yes | Yes | Yes | |
-| 3 | Yes | Yes | Yes ||
+|2 | Yes | Yes | Yes | Yes |
+| 3 | Yes | Yes | Yes | Yes |
 |4 |||||
 
 Tasks
