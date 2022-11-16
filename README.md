@@ -37,8 +37,8 @@ Tasks
 |11|Technology Architecture - 4.4|Done|
 |12|Milestone & Activity List, Sprint Delivery Plan - 5.1 ||
 |13|Sprint 1 - 6.1 ||
-|14|Sprint 2 - 6.3 ||
-|15|Sprint 3 - 6.5 ||
+|14|Sprint 2 - 6.3 |Done|
+|15|Sprint 3 - 6.5 |Done|
 |16|Sprint 4 - 6.7 ||
 
 
