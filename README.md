@@ -35,7 +35,7 @@ Tasks
 |9|Functional and Non Functional Req - 4.3| Done |
 |10|Data Flow Diagram - 4.3|Done| 
 |11|Technology Architecture - 4.4|Done|
-|12|Milestone & Activity List, Sprint Delivery Plan - 5.1 | Yes |
+|12|Milestone & Activity List, Sprint Delivery Plan - 5.1 | Done |
 |13|Sprint 1 - 6.1 ||
 |14|Sprint 2 - 6.3 |Done|
 |15|Sprint 3 - 6.5 |Done|
