@@ -9,8 +9,8 @@ Progress 📊
 | Ideation Phase  | Completed |
 | Project Design Phase I | Completed |
 | Project Design Phase II | Completed |
-| Project Planning Phase  | |
-| Project Developement Phase | |
+| Project Planning Phase  | Completed |
+| Project Developement Phase | Completed |
 
 Submissions
 👤
@@ -36,10 +36,10 @@ Tasks
 |10|Data Flow Diagram - 4.3|Done| 
 |11|Technology Architecture - 4.4|Done|
 |12|Milestone & Activity List, Sprint Delivery Plan - 5.1 | Done |
-|13|Sprint 1 - 6.1 ||
+|13|Sprint 1 - 6.1 |Done|
 |14|Sprint 2 - 6.3 |Done|
 |15|Sprint 3 - 6.5 |Done|
-|16|Sprint 4 - 6.7 ||
+|16|Sprint 4 - 6.7 |Done|
 
 
 
