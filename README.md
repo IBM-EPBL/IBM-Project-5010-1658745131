@@ -2,6 +2,7 @@
 ## Team ID : PNT2022TMID35753
 
 ### Title : Global Sales Data Analytics
+Demo Video : https://drive.google.com/file/d/1G2IxG4E2VssvPekgACsMoSvYem7PvGAZ/view?usp=drivesdk
 Progress 📊
 | Phase Description  | Progress |
 | ------------- | ------------- |
